@@ -1,0 +1,18 @@
+div.background{
+    background: url(manyFlowers.png) no-repeat;
+    border: 2px solid hotpink;
+}
+
+div.transbox{
+    margin: 30px;
+    background-color: #ffffff;
+    padding: 30px;
+    text-align: center;
+    opacity: 0.6;
+}
+
+div.transbox p{
+    margin: 5%;
+    color: #000000;
+    font-weight: bold;
+}
